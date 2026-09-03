@@ -1,7 +1,5 @@
 # Frontend Specialist Benchmark — KŌSO (構造 LIFEWEAR)
 
-<img width="1912" height="971" alt="image" src="https://github.com/user-attachments/assets/56fcfbe7-da9c-443c-94be-dd3a7338c73f" />
-
 A production-grade, architectural fashion e-commerce web application inspired by the minimalism, utilitarian craft, and fabric engineering of Japanese lifewear.
 
 Built as a benchmark evaluation for the **Frontend Specialist** agent, demonstrating advanced frontend architecture, UI/UX design taste, spatial discipline, spring motion physics, responsive layout engineering, and accessibility.
